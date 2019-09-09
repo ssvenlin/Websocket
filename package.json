@@ -3,18 +3,18 @@
   "version": "1.0.0",
   "description": "All the course files for the WebSockets playlist on The Net Ninja YouTube channel.",
   "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/websockets-playlist.git"
+    "url": "git remote -v"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/iamshaunjp/websockets-playlist/issues"
-  },
-  "homepage": "https://github.com/iamshaunjp/websockets-playlist#readme"
+  "license": "ISC"
 }
