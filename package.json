@@ -4,7 +4,7 @@
   "description": "All the course files for the WebSockets playlist on The Net Ninja YouTube channel.",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {},
   "scripts": {
